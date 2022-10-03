@@ -1,1 +1,1 @@
-Dév officiel du démineur shrek
+Développeur officiel du démineur shrek
