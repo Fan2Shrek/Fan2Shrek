@@ -1,2 +1,4 @@
 PHP fan  
-that's all ^^
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fan2Shrek&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
